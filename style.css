@@ -59,15 +59,15 @@
 }
 
 .content{
-	margin:20px 0;
-	padding:20px;
+	margin:10px 0;
+	padding:05px;
 	
 }
 .content p{
 	
 	font-size:13px;
 	font-weight:500;
-	line-height:43px;
+	line-height:35px;
 	font-family: 'Lato', sans-serif;
 }
 .content del{
@@ -124,7 +124,7 @@
 
 }
 
-.title:hover{
+.heading:hover{
 	color:white;
 	background-color:#0980e8;
 }
